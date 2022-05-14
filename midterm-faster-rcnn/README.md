@@ -6,6 +6,7 @@
 + [get_map.py](./get_map.py) is used to evaluate the model, calculating mAP value of the predicted result.
 + [train.py](train.py) is the training file.
 + [utils](./utils) contains necessary utils for Faster R-CNN.
++ trained model can be downloaded from this [link](https://drive.google.com/drive/folders/1vZYZBXevURKpIqq5-dyjHPkWpf53pPo9?usp=sharing).
 
 ## Running this project
 + clone this project repo
