@@ -1,4 +1,4 @@
-# This is the implementation of the midterm project Faster R-CNN.
+# Midterm Project--Faster R-CNN
 
 ## Document Details
 + [nets](./nets) contains networks required for this project, including [resnet](./nets/resnet50.py), [vgg16](./nets/vgg16.py), [rpn](./nets/rpn.py) and [Faster R_CNN](./nets/frcnn.py)
